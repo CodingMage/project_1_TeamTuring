@@ -1,1 +1,0 @@
-print("This is Ryan's analysis.py" )
